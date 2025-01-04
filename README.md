@@ -5,6 +5,7 @@ Hi there! 👋 I'm an experienced **Oracle APEX Developer** with a solid foundat
 ## What I Do:
 - **Oracle APEX Development**: Building dynamic, user-centric web applications with powerful back-end integration.
 - **Oracle Forms and Reports**: Designing and maintaining efficient Oracle Forms and Reports to streamline business processes.
+- **Oracle Database Expert**: Deep understanding of Oracle database architecture, performance tuning, and optimization to ensure high availability and scalability.
 - **SQL & PL/SQL**: Writing optimized, scalable queries and stored procedures to improve database performance.
 - **Project Execution**: Successfully managing and completing projects with a focus on quality, performance, and timely delivery.
 
