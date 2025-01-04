@@ -1,9 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-Experienced Oracle APEX Developer with a solid foundation in Oracle Forms and Reports development, along with a deep expertise in Oracle SQL and PL/SQL. Over the course of my career, I have successfully completed multiple projects that highlight my ability to design and implement user-centric applications, bridging the gap between complex back-end functionality and seamless front-end interfaces.
+Hi there! 👋 I'm an experienced **Oracle APEX Developer** with a solid foundation in **Oracle Forms** and **Reports** development, and a deep expertise in **Oracle SQL** and **PL/SQL**. Over the course of my career, I have successfully completed multiple projects, consistently delivering high-quality solutions that blend complex back-end functionality with intuitive front-end interfaces.
 
-My experience spans crafting dynamic, high-performance applications, optimizing database queries, and delivering impactful solutions that meet both business requirements and user expectations. I thrive in collaborative environments, bringing innovative ideas and problem-solving skills to every project I tackle.
+## What I Do:
+- **Oracle APEX Development**: Building dynamic, user-centric web applications with powerful back-end integration.
+- **Oracle Forms and Reports**: Designing and maintaining efficient Oracle Forms and Reports to streamline business processes.
+- **SQL & PL/SQL**: Writing optimized, scalable queries and stored procedures to improve database performance.
+- **Project Execution**: Successfully managing and completing projects with a focus on quality, performance, and timely delivery.
 
-With a strong commitment to quality, I have consistently delivered projects on time, demonstrating a keen attention to detail and a focus on scalability and performance. I am passionate about advancing in the field of Oracle technologies and am always eager to contribute my skills to drive meaningful results. Whether you're looking for solutions to optimize legacy systems or develop cutting-edge database applications, I am ready to help you transform your ideas into efficient, scalable solutions.
--->
+## Projects & Contributions:
+I have worked on various impactful projects, from optimizing legacy systems to creating innovative database applications. Each project showcases my ability to bridge the gap between business needs and technical execution. I thrive in collaborative environments and enjoy solving problems with innovative solutions.
+
+Feel free to explore my repositories and see the projects I've contributed to. I believe in continuously improving my craft and am always open to new challenges and opportunities. 
+
+If you're looking for ways to optimize your Oracle systems or need help with database application development, don't hesitate to reach out. Let's connect and create something amazing!
+
+---
+Thank you for visiting my profile! 🚀
