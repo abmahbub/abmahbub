@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Arafat
-#### Oracle Software Developer & Database Expert
+#### I am Oracle Software Developer & Database Expert
 ![Oracle Software Developer & Database Expert](https://media.licdn.com/dms/image/v2/D5616AQEWyJfgQo7j2w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707553220169?e=1741219200&v=beta&t=lg1mit98dtQwExBBVyzK58RnRA1hTvS-v7_yQsfM2zc)
 
 Hi there! 👋 I'm an experienced Oracle APEX Developer with a solid foundation in Oracle Forms and Reports development, and a deep expertise in Oracle SQL and PL/SQL. Over the course of my career, I have successfully completed multiple projects, consistently delivering high-quality solutions that blend complex back-end functionality with intuitive front-end interfaces.
